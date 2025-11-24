@@ -45,14 +45,12 @@ Professional portfolio demonstrating text classification and object detection an
 - **Categories:** main_product, secondary_item, background
 - **Format:** COCO JSON
 
-[Guidelines](1_visual_annotation/annotation_guidelines.md) • [Quality Report](1_visual_annotation/quality_report.md)
 
 ### Text (Intent Classification)
 - **40 messages**, 5 intent categories
 - **Categories:** cancellation, technical_support, billing_inquiry, feature_request, general_question
 - **Format:** CSV with metadata
 
-[Guidelines](2_text_annotation/annotation_guidelines.md) • [Quality Report](2_text_annotation/quality_report.md)
 
 ---
 
