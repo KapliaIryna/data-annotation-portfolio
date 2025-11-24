@@ -1,0 +1,7 @@
+1. **Multiple main_products** (image_23)
+   - Decision: All products labeled as main_product
+   - Justification: Flat lay with equal importance items
+
+2. **Small secondary items** (image_18)
+   - Decision: Included items >0.5% area
+   - Justification: Visible accessories enhance product context

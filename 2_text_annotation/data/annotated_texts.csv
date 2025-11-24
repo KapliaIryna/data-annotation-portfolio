@@ -1,0 +1,41 @@
+id,text,intent,confidence,sentiment,notes,annotator,timestamp,guidelines_version
+1,"How do I cancel my premium subscription?",cancellation,high,neutral,"Direct cancellation request",Iryna,2024-11-17T10:00:00Z,v1.0
+2,"My website has been showing 404 error for 2 days",technical_support,high,negative,"Clear technical issue",Iryna,2024-11-17T10:01:00Z,v1.0
+3,"Would be great to have dark mode in the editor",feature_request,high,neutral,"Polite feature suggestion",Iryna,2024-11-17T10:02:00Z,v1.0
+4,"I was charged twice this month",billing_inquiry,high,negative,"Billing error complaint",Iryna,2024-11-17T10:03:00Z,v1.0
+5,"What are your business hours?",general_question,high,neutral,"Simple informational query",Iryna,2024-11-17T10:04:00Z,v1.0
+6,"The drag and drop feature stopped working after update",technical_support,high,negative,"Bug after update",Iryna,2024-11-17T10:05:00Z,v1.0
+7,"Can I get a refund for last month?",billing_inquiry,high,neutral,"Refund request - billing related",Iryna,2024-11-17T10:06:00Z,v1.0
+8,"Please add Instagram integration",feature_request,high,neutral,"Specific feature request",Iryna,2024-11-17T10:07:00Z,v1.0
+9,"I want to close my account permanently",cancellation,high,neutral,"Account closure = cancellation",Iryna,2024-11-17T10:08:00Z,v1.0
+10,"How much storage do I have left?",general_question,high,neutral,"Account info query",Iryna,2024-11-17T10:09:00Z,v1.0
+11,"ERROR 500 when I try to publish my site",technical_support,high,negative,"Server error - technical issue",Iryna,2024-11-17T10:10:00Z,v1.0
+12,"Your pricing page is confusing",billing_inquiry,low,negative,"Related to billing/pricing understanding",Iryna,2024-11-17T10:11:00Z,v1.0
+13,"Is there a way to export my site to WordPress?",general_question,medium,neutral,"Could be feature_request if export doesn't exist, or technical_support if it does",Iryna,2024-11-17T10:12:00Z,v1.0
+14,"Stop billing me immediately!",cancellation,high,negative,"Urgent cancellation with strong emotion",Iryna,2024-11-17T10:13:00Z,v1.0
+15,"Thanks for helping me yesterday!",general_question,high,positive,"Feedback/gratitude not a request",Iryna,2024-11-17T10:14:00Z,v1.0
+16,"My images are not loading on mobile",technical_support,high,negative,"Mobile rendering bug",Iryna,2024-11-17T10:15:00Z,v1.0
+17,"Why did my invoice increase?",billing_inquiry,high,negative,"Billing concern",Iryna,2024-11-17T10:16:00Z,v1.0
+18,"It would be nice to have more templates",feature_request,high,neutral,"Template request",Iryna,2024-11-17T10:17:00Z,v1.0
+19,"I need to cancel before the next billing cycle",cancellation,high,neutral,"Time-sensitive cancellation",Iryna,2024-11-17T10:18:00Z,v1.0
+20,"Where can I find my API key?",general_question,high,neutral,"Documentation/help query",Iryna,2024-11-17T10:19:00Z,v1.0
+21,"The site builder keeps crashing in Chrome",technical_support,high,negative,"Browser-specific bug",Iryna,2024-11-17T10:20:00Z,v1.0
+22,"Can you explain the difference between plans?",billing_inquiry,high,neutral,"Pricing/plan comparison",Iryna,2024-11-17T10:21:00Z,v1.0
+23,"Please implement a blog scheduler",feature_request,high,neutral,"Specific feature request",Iryna,2024-11-17T10:22:00Z,v1.0
+24,"Delete my account and all my data",cancellation,high,neutral,"GDPR-style deletion = cancellation",Iryna,2024-11-17T10:23:00Z,v1.0
+25,"How do I add a contact form?",general_question,high,neutral,"How-to question",Iryna,2024-11-17T10:24:00Z,v1.0
+26,"Getting timeout errors when saving changes",technical_support,high,negative,"Performance/connectivity issue",Iryna,2024-11-17T10:25:00Z,v1.0
+27,"When will I be charged for renewal?",billing_inquiry,high,neutral,"Billing schedule inquiry",Iryna,2024-11-17T10:26:00Z,v1.0
+28,"You should add AI image generation",feature_request,high,neutral,"AI feature suggestion",Iryna,2024-11-17T10:27:00Z,v1.0
+29,"I changed my mind, please cancel my upgrade",cancellation,high,neutral,"Cancel recent upgrade",Iryna,2024-11-17T10:28:00Z,v1.0
+30,"Can I have multiple websites on one account?",general_question,high,neutral,"Account capability question",Iryna,2024-11-17T10:29:00Z,v1.0
+31,"My custom domain is not connecting properly",technical_support,high,negative,"Domain configuration issue",Iryna,2024-11-17T10:30:00Z,v1.0
+32,"The annual plan seems expensive compared to competitors",billing_inquiry,medium,negative,"Price comparison - implicit billing concern, could lead to cancellation",Iryna,2024-11-17T10:31:00Z,v1.0
+33,"Would love to see better SEO tools",feature_request,high,neutral,"SEO improvement request",Iryna,2024-11-17T10:32:00Z,v1.0
+34,"Unsubscribe me from everything",cancellation,high,negative,"Complete opt-out request",Iryna,2024-11-17T10:33:00Z,v1.0
+35,"What payment methods do you accept?",billing_inquiry,high,neutral,"Payment options inquiry",Iryna,2024-11-17T10:34:00Z,v1.0
+36,"Videos won't play on my published site",technical_support,high,negative,"Media playback bug",Iryna,2024-11-17T10:35:00Z,v1.0
+37,"I think I was overcharged, please check",billing_inquiry,high,negative,"Billing dispute",Iryna,2024-11-17T10:36:00Z,v1.0
+38,"Can you add more font options?",feature_request,high,neutral,"Design customization request",Iryna,2024-11-17T10:37:00Z,v1.0
+39,"How to terminate my subscription?",cancellation,high,neutral,"Subscription termination = cancellation",Iryna,2024-11-17T10:38:00Z,v1.0
+40,"Is there a tutorial for beginners?",general_question,high,neutral,"Educational resource request",Iryna,2024-11-17T10:39:00Z,v1.0
