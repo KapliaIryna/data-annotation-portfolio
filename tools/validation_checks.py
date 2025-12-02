@@ -270,7 +270,6 @@ if __name__ == "__main__":
     print("DATA ANNOTATION VALIDATION TOOL")
     print("-" * 40)
     
-    # HARDCODED шляхи (найнадійніше)
     visual_file = r'/Users/irinakapla/Documents/Learning/projects/data-annotation-portfolio/1_visual_annotation/_annotations.coco.json'
     text_file = r'/Users/irinakapla/Documents/Learning/projects/data-annotation-portfolio/2_text_annotation/data/annotated_texts.csv'
     
